@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href = "style.css" rel = "stylesheet" />
+  </head>
+
+  <body>
+    <div class = "flex-container-1">
+    </div>
+
+    <div class = "flex-container-2">
+      <div class = "flex-container-2-1">
+        </div>
+      <div class = "flex-container-2-2">
+        <div class = "flex-a"></div>
+        <div class = "flex-b">
+          <div class = "flex-b-1"></div>
+          <div class = "flex-b-2"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class = "flex-container-3">
+      <div class = "flex3-1"></div>
+      <div class = "flex3-2"></div>
+    </div>
+
+  </body>
+
+</html>
